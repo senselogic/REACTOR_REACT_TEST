@@ -9,7 +9,7 @@ npm install
 npm start
 ```
 
-Visit localhost:8080
+Visit **localhost:8080**
 
 ## Version
 
