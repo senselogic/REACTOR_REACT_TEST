@@ -8,7 +8,7 @@ module.exports = {
       {
         test: /\.(js|jsx)$/,
         exclude: /node_modules/,
-        use: ['babel-loader', 'senselogic-reactor'],
+        use: ['babel-loader', { loader: 'senselogic-reactor', options: { framework: 'react' } }],
       },
     ],
   },
