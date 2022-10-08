@@ -1,6 +1,6 @@
 ![](https://github.com/senselogic/REACTOR/blob/master/LOGO/reactor.png)
 
-# Reactor React Test
+# Reactor Test
 
 ## Installation
 
