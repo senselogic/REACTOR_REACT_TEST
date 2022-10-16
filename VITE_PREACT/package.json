@@ -15,7 +15,7 @@
   "devDependencies": {
     "@preact/preset-vite": "^2.3.0",
     "senselogic-reactor": "^0.1.12",
-    "senselogic-reactor-vite-loader": "^0.1.6",
+    "senselogic-reactor-vite": "^0.1.7",
     "vite": "^3.1.0"
   }
 }

@@ -668,10 +668,10 @@ semver@^6.3.0:
   resolved "https://registry.yarnpkg.com/semver/-/semver-6.3.0.tgz#ee0a64c8af5e8ceea67687b133761e1becbd1d3d"
   integrity sha512-b39TBaTSfV6yBrapU89p5fKekE2m/NwnDocOVruQFS1/veMgdzuPcnOM34M6CwxW8jH/lxEa5rBoDeUwu5HHTw==
 
-senselogic-reactor-vite-loader@^0.1.6:
-  version "0.1.6"
-  resolved "https://registry.yarnpkg.com/senselogic-reactor-vite-loader/-/senselogic-reactor-vite-loader-0.1.6.tgz#75ebc177cce9cac8172ebdeb7e24a76eba30f05e"
-  integrity sha512-AlRP4WcoiaTXQsecGgQlKcvtWL0y6Av4C/uRNSAMW6bJKjjscnLB1Z6WqnstXOJBQn500ZQcFTVZboYVOdaUDw==
+senselogic-reactor-vite@^0.1.7:
+  version "0.1.7"
+  resolved "https://registry.yarnpkg.com/senselogic-reactor-vite/-/senselogic-reactor-vite-0.1.7.tgz#ba9abf26a12f499901893f8d802da2887b1b0dda"
+  integrity sha512-uQj+RdVVN2yNbKehTVw+xW3lKQlNdchyEOXUjfIVh9M6CnK3yPyBk2QgSn2pQDE7Iu3CvA7bP5+pfq3+W2r68A==
   dependencies:
     "@rollup/pluginutils" "^4.2.1"
 
