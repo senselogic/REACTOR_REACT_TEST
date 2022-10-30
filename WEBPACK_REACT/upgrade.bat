@@ -1,1 +1,1 @@
-call npm upgrade
+call yarn upgrade
