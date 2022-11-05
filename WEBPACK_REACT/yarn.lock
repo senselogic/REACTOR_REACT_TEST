@@ -2951,10 +2951,10 @@ send@0.18.0:
     range-parser "~1.2.1"
     statuses "2.0.1"
 
-senselogic-reactor@^0.1.14:
-  version "0.1.14"
-  resolved "https://registry.yarnpkg.com/senselogic-reactor/-/senselogic-reactor-0.1.14.tgz#206b66fbc8630dbcd7ad6c5fd7b03977bd1ba966"
-  integrity sha512-AAjijD+6BcVXAENf8wJfTRsG/oho9NuQvAGeeEqiVWcy5EdtPJzUXDNGOZ6+1SK5Def7c+nOBROZshwJ4Fngzw==
+senselogic-reactor@^0.1.15:
+  version "0.1.15"
+  resolved "https://registry.yarnpkg.com/senselogic-reactor/-/senselogic-reactor-0.1.15.tgz#edcab71bdf8c3865cd23a029e3c202ca3bea1339"
+  integrity sha512-UbjL2JApJa7clHsBNnHX4OOFNs8BlQlzlIGzSaqGiY3zhteN5cNPIDJN5mzMGIQ5Y7XcA4rV8r8+cKUwu71fFw==
 
 serialize-javascript@^6.0.0:
   version "6.0.0"

@@ -8,6 +8,7 @@ function Counter()
     function increment()
     {
         $count = $count + 1;
+        $count = $count + 1;
     }
 
     return (
